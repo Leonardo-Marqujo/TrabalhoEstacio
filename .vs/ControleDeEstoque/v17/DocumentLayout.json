@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leozi\\Desktop\\ControleDeEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D640A09-CEDA-4016-BC0E-EE98A7EAB14D}|ControleDeEstoque\\ControleDeEstoque.csproj|c:\\users\\leozi\\desktop\\controledeestoque\\controledeestoque\\data\\migrations\\20240910162552_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D640A09-CEDA-4016-BC0E-EE98A7EAB14D}|ControleDeEstoque\\ControleDeEstoque.csproj|solutionrelative:controledeestoque\\data\\migrations\\20240910162552_stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240910162552_stat.cs",
+              "DocumentMoniker": "C:\\Users\\leozi\\Desktop\\ControleDeEstoque\\ControleDeEstoque\\Data\\Migrations\\20240910162552_stat.cs",
+              "RelativeDocumentMoniker": "ControleDeEstoque\\Data\\Migrations\\20240910162552_stat.cs",
+              "ToolTip": "C:\\Users\\leozi\\Desktop\\ControleDeEstoque\\ControleDeEstoque\\Data\\Migrations\\20240910162552_stat.cs",
+              "RelativeToolTip": "ControleDeEstoque\\Data\\Migrations\\20240910162552_stat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:25:53.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
